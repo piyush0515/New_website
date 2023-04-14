@@ -2,6 +2,6 @@
 University website
 
 
-click here to visit our website https://github.com/piyush0515/New_website.git
+click here to visit our website  https://piyush0515.github.io/New_website/
 
 
